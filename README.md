@@ -2,6 +2,8 @@
 
 Informazioni sulla disponibilita dei dati per Rapporto Indicatori del Clima
 
+
+
 | Regione | Aggiornamenti serie mediante SCIA |  Aggiornamenti serie mediante fonti web |
 | --- |--- |--- |
 | Valle d'Aosta | | |
