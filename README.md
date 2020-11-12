@@ -1,6 +1,6 @@
-# Rapporto Indicatori Clima (serie storiche)
+# Rapporto Indicatori Clima
 
-Informazioni sulla disponibilita dei dati per Rapporto Indicatori del Clima
+Informazioni sulla disponibilita dei dati per Rapporto Indicatori del Clima (serie storiche)
 
 
 
